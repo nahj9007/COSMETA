@@ -1,0 +1,14 @@
+{
+  "name": "cri",
+  "version": "1.0.0",
+  "description": "Codebase for CRI coin",
+  "main": "N/A",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
+  },
+  "devDependencies": {
+    "truffle-flattener": "^1.5.0"
+  }
+}
